@@ -1,4 +1,4 @@
-#**Local Binary Pattern (LBP)**
+# **Local Binary Pattern (LBP)**
 ****
 Nome: Gustavo Costa
 
@@ -17,6 +17,7 @@ Algumas de suas aplicações são:
 - Classificação de texturas
 
 <img src="https://i.ibb.co/1drm0Mp/lbp.webp">
+
 *fonte da imagem: Local Binary Patterns (LBP) Mapping*
 
 ## 🔬**Afinal, como a LBP funciona?**
@@ -56,6 +57,7 @@ Como melhor entendimento, vamos mostrar o funcionamento da técnica LBP por um a
 ##**Exemplo do LBP**
 
 <img src="https://i.ibb.co/61Wh7ZT/lbp-ex.png">
+
 *fonte da imagem: Semantic Scholar The Local Binary Pattern Approach and its Applications to Face Analysis A. Hadid Published in First Workshops on Image… 1 November 2008 Computer Science 2008 First Workshops on Image Processing Theory, Tools and Applications*
 
 ****
