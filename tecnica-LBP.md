@@ -1,4 +1,4 @@
-# **Local Binary Pattern (LBP)**
+# Local Binary Pattern (LBP)
 ****
 Nome: Gustavo Costa
 
